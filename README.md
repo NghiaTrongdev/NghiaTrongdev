@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NghiaTrongdev
 - 👀 I’m interested in football, sleep , listen to music and playing videogames.!!!
-- 🌱 I’m currently learning python(Ten)
-- 💞️ I’m looking to collaborate with AI engineer
+- 🌱 I’m currently learning python(Tens) , Swift
+- 💞️ I’m looking to collaborate with software developer
 - 📫 How to reach me..
 
 <!---
